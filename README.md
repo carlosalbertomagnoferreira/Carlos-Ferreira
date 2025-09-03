@@ -43,7 +43,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-magno-9668a547)
 - ✉️ [ferreiracarlosm@gmail.com](mailto:ferreiracarlosm@gmail.com)
-- :octocat: [GitHub](https://github.com/carlosalbertomagnoferreira)
+- 🌍 [GitHub](https://github.com/carlosalbertomagnoferreira)
 
 ---
 
