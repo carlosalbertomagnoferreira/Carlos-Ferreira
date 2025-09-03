@@ -2,7 +2,7 @@
 
 💻 Profissional de **TI** com foco em **DevOps** e **Dados**, apaixonado por automação, pipelines e boas práticas de engenharia.  
 🚀 Experiência em provisionamento de infraestrutura, monitoramento e análise de dados para apoiar decisões estratégicas.  
-
+:octocat:
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
@@ -43,7 +43,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-magno-9668a547)
 - ✉️ [ferreiracarlosm@gmail.com](mailto:ferreiracarlosm@gmail.com)
-- 🌍 [GitHub](https://github.com/carlosalbertomagnoferreira)
+- :octocat: [GitHub](https://github.com/carlosalbertomagnoferreira)
 
 ---
 
