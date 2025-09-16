@@ -2,7 +2,7 @@
 
 💻 Profissional de **TI** com foco em **DevOps** e **Dados**, apaixonado por automação, pipelines e boas práticas de engenharia.  
 🚀 Experiência em provisionamento de infraestrutura, monitoramento e análise de dados para apoiar decisões estratégicas.  
-:octocat:
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
@@ -29,6 +29,16 @@
 
 ---
 
+## 📂 Projetos em Destaque
+
+🔹 [Kubernetes com INGRESS NGINX](https://github.com/carlosalbertomagnoferreira/Kubernetes_Kind_NGINX_Ingress)  
+*Kubernetes com 3 aplicações usando INGRESS NGINX.*
+
+🔹 [API Python com FastAPI + PostgreSQL](https://github.com/carlosalbertomagnoferreira/api_python_crud_uv_project)  
+*API Python com FastAPI, PostgreSQL e Alembic.*
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
@@ -43,7 +53,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-magno-9668a547)
 - ✉️ [ferreiracarlosm@gmail.com](mailto:ferreiracarlosm@gmail.com)
-- :octocat: [GitHub](https://github.com/carlosalbertomagnoferreira)
+- 🌍 [Portfólio Online](https://carlosalbertomagnoferreira.github.io)
 
 ---
 
