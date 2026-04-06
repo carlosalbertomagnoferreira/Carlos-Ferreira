@@ -48,11 +48,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosalbertomagnoferreira&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalbertomagnoferreira&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+[![Perfil GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosalbertomagnoferreira)](https://github.com/carlosalbertomagnoferreira)
+[![Estatísticas GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosalbertomagnoferreira)](https://github.com/carlosalbertomagnoferreira)
+[![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosalbertomagnoferreira)](https://github.com/carlosalbertomagnoferreira)
 
 ---
 
